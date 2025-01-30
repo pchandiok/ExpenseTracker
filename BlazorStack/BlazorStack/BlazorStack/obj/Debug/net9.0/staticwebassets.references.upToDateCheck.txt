@@ -1,0 +1,1 @@
+C:\Users\pchan\source\repos\ExpenseTracker\BlazorStack\BlazorStack\BlazorStack.Client\obj\Debug\net9.0\staticwebassets.build.json

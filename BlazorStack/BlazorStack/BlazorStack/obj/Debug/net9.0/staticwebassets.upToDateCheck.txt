@@ -1,0 +1,2 @@
+C:\Users\pchan\source\repos\ExpenseTracker\BlazorStack\BlazorStack\BlazorStack\wwwroot\app.css
+wwwroot\app.css

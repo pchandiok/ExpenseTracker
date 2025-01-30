@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BlazorStack.Controllers.HomeController",
+    "Method": "Index",
+    "RelativePath": "api/Home",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

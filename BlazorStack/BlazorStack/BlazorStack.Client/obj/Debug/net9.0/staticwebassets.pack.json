@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pchan\\source\\repos\\ExpenseTracker\\BlazorStack\\BlazorStack\\BlazorStack.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\pchan\\source\\repos\\ExpenseTracker\\BlazorStack\\BlazorStack\\BlazorStack.Client\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BlazorStack.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorStack.Client.d0j5vntcm2.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazorStack.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BlazorStack.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BlazorStack.Client.props",
+      "PackagePath": "build\\BlazorStack.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorStack.Client.props",
+      "PackagePath": "buildMultiTargeting\\BlazorStack.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BlazorStack.Client.props",
+      "PackagePath": "buildTransitive\\BlazorStack.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
